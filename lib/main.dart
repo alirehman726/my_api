@@ -38,5 +38,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-//  eve.holt@reqres.in
-//  cityslicka
