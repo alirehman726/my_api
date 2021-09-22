@@ -28,6 +28,7 @@ class LoginRequestModel {
       'email': email.trim(),
       'password': password.trim(),
     };
+    print(map);
     return map;
   }
 }

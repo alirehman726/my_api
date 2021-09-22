@@ -33,12 +33,7 @@ class MyApp extends StatelessWidget {
             color: Colors.blueAccent,
           ),
         ),
-      ),
-      // home: LoginPage(),
-      // home: LoginPage(),
-      // home: LoginPage(),
-      // home: LoginPage(),
-      // home: LoginPage(),
+      ), 
       home: LoginPage(),
     );
   }
